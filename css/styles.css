@@ -29,6 +29,11 @@
   color: black;
 }
 
+img {
+  height: 50%;
+  width: 100%;
+}
+
 .right-column {
   min-height: 150px;
   background-color: green;
@@ -73,12 +78,12 @@
   }
   .left-column {
     float: right;
-    height: 548px;
+    height: 530px;
     width: 33%;
   }
   .right-column {
     float: right;
-    height: 547px;
+    height: 530px;
     width: 33%;
     margin-top: 5px;
   }
